@@ -1,0 +1,1 @@
+select item, calories from fastfood where restaurant = 'Mcdonalds' and calories = 380;

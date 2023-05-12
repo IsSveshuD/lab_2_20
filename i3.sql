@@ -1,0 +1,1 @@
+select restaurant, count(*) as item_count from fastfood group by 1 order by 2 desc;

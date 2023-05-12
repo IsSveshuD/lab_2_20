@@ -1,0 +1,1 @@
+select restaurant, item, sugar from fastfood where sugar = 0 limit 10;

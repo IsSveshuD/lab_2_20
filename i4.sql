@@ -1,0 +1,1 @@
+select restaurant, item, cholesterol from fastfood where restaurant = 'Taco Bell' and cholesterol < 50 order by 3 limit 15;

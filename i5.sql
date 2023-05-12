@@ -1,0 +1,1 @@
+select restaurant, item, total_carb from fastfood where item like '%Chicken%' and total_carb == 10;
